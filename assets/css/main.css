@@ -94,7 +94,8 @@ html {
 }
 
 body {
-	background: #1b1f22;
+	background-image: url('/images/desktop.jpg'); 
+	background-size: cover;
 }
 
 	body.is-preload *, body.is-preload *:before, body.is-preload *:after {
