@@ -24,7 +24,7 @@ section, summary, time, mark, audio, video {
 	border: 0;
 	font-size: 100%;
 	font: inherit;
-	background-image: url('/images/cropped.jpg'); 
+	background-image: url('/images/cropped.png'); 
 	background-size: cover;
 	vertical-align: baseline;}
 
@@ -96,7 +96,7 @@ html {
 }
 
 body {
-	background-image: url('/images/cropped.jpg'); 
+	background-image: url('/images/cropped.png'); 
 	background-repeat: no-repeat;
 	background-size: cover;
 }
