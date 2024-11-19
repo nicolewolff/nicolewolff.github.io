@@ -24,8 +24,8 @@ section, summary, time, mark, audio, video {
 	border: 0;
 	font-size: 100%;
 	font: inherit;
-	background-image: url('/images/observatory.jpg'); 
-	background-size: auto;
+	background-image: url('/images/cropped.jpg'); 
+	background-size: cover;
 	vertical-align: baseline;}
 
 article, aside, details, figcaption, figure,
@@ -96,9 +96,9 @@ html {
 }
 
 body {
-	background-image: url('/images/observatory.jpg'); 
+	background-image: url('/images/cropped.jpg'); 
 	background-repeat: no-repeat;
-	background-size: auto;
+	background-size: cover;
 }
 
 	body.is-preload *, body.is-preload *:before, body.is-preload *:after {
