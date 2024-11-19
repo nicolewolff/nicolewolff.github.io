@@ -97,6 +97,7 @@ html {
 
 body {
 	background-image: url('/images/observatory.jpg'); 
+	background-repeat: no-repeat;
 	background-size: auto;
 }
 
