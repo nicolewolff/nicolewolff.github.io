@@ -97,8 +97,7 @@ html {
 
 body {
 	background-image: url('/images/observatory.jpg'); 
-	background-size: cover;
-	background-repeat: no-repeat;
+	background-size: auto;
 }
 
 	body.is-preload *, body.is-preload *:before, body.is-preload *:after {
