@@ -25,7 +25,8 @@ section, summary, time, mark, audio, video {
 	font-size: 100%;
 	font: inherit;
 	background-image: url('/images/cropped.jpg'); 
-	background-size: cover;
+	background-size: 100% 100%;
+	min-height: 100vh;
 	vertical-align: baseline;}
 
 article, aside, details, figcaption, figure,
@@ -98,8 +99,8 @@ html {
 body {
 	background-image: url('/images/cropped.jpg'); 
 	background-repeat: no-repeat;
-	background-size: cover;
-}
+	background-size: 100% 100%;
+	min-height: 100vh;}
 
 	body.is-preload *, body.is-preload *:before, body.is-preload *:after {
 		-moz-animation: none !important;
