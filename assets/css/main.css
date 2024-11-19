@@ -25,6 +25,7 @@ section, summary, time, mark, audio, video {
 	font-size: 100%;
 	font: inherit;
 	background-image: url('/images/desktop.jpg'); 
+	background-repeat: no-repeat;
 	vertical-align: baseline;}
 
 article, aside, details, figcaption, figure,
@@ -97,6 +98,7 @@ html {
 body {
 	background-image: url('/images/desktop.jpg'); 
 	background-size: cover;
+	background-repeat: no-repeat;
 }
 
 	body.is-preload *, body.is-preload *:before, body.is-preload *:after {
