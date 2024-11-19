@@ -24,7 +24,7 @@ section, summary, time, mark, audio, video {
 	border: 0;
 	font-size: 100%;
 	font: inherit;
-	background-image: url('/images/desktop.jpg'); 
+	background-image: url('/images/observatory.jpg'); 
 	background-repeat: no-repeat;
 	vertical-align: baseline;}
 
@@ -96,7 +96,7 @@ html {
 }
 
 body {
-	background-image: url('/images/desktop.jpg'); 
+	background-image: url('/images/observatory.jpg'); 
 	background-size: cover;
 	background-repeat: no-repeat;
 }
